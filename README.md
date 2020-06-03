@@ -12,3 +12,9 @@ You can watch the video here: https://youtu.be/tCs-K9AkDrQ
 In this video, you will learn how to set up your OMNET++ environment, create your own workspace, and learn how to run INET, VEINs, and SUMO. 
 
 You can watch the video here: https://youtu.be/PfAWhrmoYgM
+
+## How to Create a new OMNET++ Project that references INET and Veins
+
+This video will show you how to create a new OMNET++ project that works with both INET and Veins.
+
+You can watch the video here: https://youtu.be/mGvhbrw05sQ
