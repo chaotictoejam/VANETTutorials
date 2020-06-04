@@ -1,19 +1,28 @@
 # VANET Tutorials
 This repository will hold the code used in my VANET YouTube Series (OMNET++, INET, Veins, and SUMO)
 
-## Introduction to VANETs
+## What you need
+
+In order to run this project you need the latest version of:
+* INET (https://github.com/inet-framework/inet)
+* Veins (https://github.com/sommer/veins)
+* SUMO (http://sumo.sourceforge.net/)
+
+## Videos in Series
+
+### Introduction to VANETs
 
 This video will give you a short introduction to VANETs (vehicular ad-hoc networks). You will learn what are VANETs, VANET architecture, potential applications, and research needs. 
 
 You can watch the video here: https://youtu.be/tCs-K9AkDrQ
 
-## Getting Started with OMNET++, INET, Veins, and SUMO
+### Getting Started with OMNET++, INET, Veins, and SUMO
 
 In this video, you will learn how to set up your OMNET++ environment, create your own workspace, and learn how to run INET, VEINs, and SUMO. 
 
 You can watch the video here: https://youtu.be/PfAWhrmoYgM
 
-## How to Create a new OMNET++ Project that references INET and Veins
+### How to Create a new OMNET++ Project that references INET and Veins
 
 This video will show you how to create a new OMNET++ project that works with both INET and Veins.
 
