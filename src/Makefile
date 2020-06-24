@@ -2,7 +2,7 @@
 # OMNeT++/OMNEST Makefile for $(LIB_PREFIX)VANETTutorials
 #
 # This file was generated with the command:
-#  opp_makemake --make-so -f --deep -KINET_PROJ=../../inet -KVEINS_PROJ=F:/Dev/veins-5.0/veins-veins-5.0 -DINET_IMPORT -DVEINS_IMPORT -I$$\(INET_PROJ\)/src -I$$\(VEINS_PROJ\)/src -I. -L$$\(INET_PROJ\)/src -L$$\(VEINS_PROJ\)/src -lINET$$\(D\) -lveins$$\(D\)
+#  opp_makemake --make-so -f --deep -KINET_PROJ=../../inet -KVEINS_PROJ=../../veins -DINET_IMPORT -DVEINS_IMPORT -I$$\(INET_PROJ\)/src -I$$\(VEINS_PROJ\)/src -I. -L$$\(INET_PROJ\)/src -L$$\(VEINS_PROJ\)/src -lINET$$\(D\) -lveins$$\(D\)
 #
 
 # Name of target to be created (-o option)
@@ -35,7 +35,7 @@ SMFILES =
 
 # Other makefile variables (-K)
 INET_PROJ=../../inet
-VEINS_PROJ=F:/Dev/veins-5.0/veins-veins-5.0
+VEINS_PROJ=../../veins
 
 #------------------------------------------------------------------------------
 
