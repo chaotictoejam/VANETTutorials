@@ -27,3 +27,9 @@ You can watch the video here: https://youtu.be/PfAWhrmoYgM
 This video will show you how to create a new OMNET++ project that works with both INET and Veins.
 
 You can watch the video here: https://youtu.be/mGvhbrw05sQ
+
+### How to Make Mobile Hosts Communicate Wirelessly in OMNET++
+
+In this video, we are going to learn how to set up a simulation where the mobile hosts communicate with each other wirelessly. This will be done using INET's standard host in OMNET++. You will learn how to make two hosts communicate with each other wirelessly, use INET's visualizer, and make your host move.
+
+You can watch the video here: https://youtu.be/9xDqjRd1DpA
