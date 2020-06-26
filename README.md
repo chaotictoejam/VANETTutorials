@@ -32,7 +32,7 @@ You can watch the video here: https://youtu.be/mGvhbrw05sQ
 
 In this video, we are going to review OMNET++. Specifically, we will learn how OMNET++ works and how .ned files and .ini work together.
 
-You can watch the video here: https://youtu.be/mGvhbrw05sQ
+You can watch the video here: https://youtu.be/Ez8tTS9iXe4
 
 ### How to Make Mobile Hosts Communicate Wirelessly in OMNET++
 
