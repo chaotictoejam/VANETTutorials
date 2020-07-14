@@ -2,7 +2,7 @@
 # OMNeT++/OMNEST Makefile for $(LIB_PREFIX)VANETTutorials
 #
 # This file was generated with the command:
-#  opp_makemake --make-so -f --deep -KINET_PROJ=../../inet -KVEINS_PROJ=../../veins -DINET_IMPORT -DVEINS_IMPORT -I$$\(INET_PROJ\)/src -I$$\(VEINS_PROJ\)/src -I. -L$$\(INET_PROJ\)/src -L$$\(VEINS_PROJ\)/src -lINET$$\(D\) -lveins$$\(D\)
+#  opp_makemake --make-so -f --deep -KINET_PROJ=../../inet -KVEINS_PROJ=../../veins -DINET_IMPORT -I. -I$$\(INET_PROJ\)/src -I$$\(VEINS_PROJ\)/src -I. -L$$\(INET_PROJ\)/src -L$$\(VEINS_PROJ\)/src -lINET$$\(D\) -lveins$$\(D\)
 #
 
 # Name of target to be created (-o option)
@@ -10,7 +10,7 @@ TARGET = $(LIB_PREFIX)VANETTutorials$(D)$(SHARED_LIB_SUFFIX)
 TARGET_DIR = .
 
 # C++ include paths (with -I)
-INCLUDE_PATH = -I$(INET_PROJ)/src -I$(VEINS_PROJ)/src -I.
+INCLUDE_PATH = -I. -I$(INET_PROJ)/src -I$(VEINS_PROJ)/src -I.
 
 # Additional object and library files to link with
 EXTRA_OBJS =
@@ -63,7 +63,7 @@ ifneq ($(TOOLCHAIN_NAME),clangc2)
 LIBS += -Wl,-rpath,$(abspath $(INET_PROJ)/src) -Wl,-rpath,$(abspath $(VEINS_PROJ)/src)
 endif
 
-COPTS = $(CFLAGS) $(IMPORT_DEFINES) -DINET_IMPORT -DVEINS_IMPORT $(INCLUDE_PATH) -I$(OMNETPP_INCL_DIR)
+COPTS = $(CFLAGS) $(IMPORT_DEFINES) -DINET_IMPORT $(INCLUDE_PATH) -I$(OMNETPP_INCL_DIR)
 MSGCOPTS = $(INCLUDE_PATH)
 SMCOPTS =
 
