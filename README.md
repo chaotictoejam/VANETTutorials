@@ -39,3 +39,9 @@ You can watch the video here: https://youtu.be/Ez8tTS9iXe4
 In this video, we are going to learn how to set up a simulation where the mobile hosts communicate with each other wirelessly. This will be done using INET's standard host in OMNET++. You will learn how to make two hosts communicate with each other wirelessly, use INET's visualizer, and make your host move.
 
 You can watch the video here: https://youtu.be/9xDqjRd1DpA
+
+### How To Create a Network and Simulation in SUMO
+
+In this video, you will learn about SUMO networks, how to create a SUMO network (by hand and using NETGENERATE), and how to create a simulation in SUMO.
+
+You can watch the video here: https://youtu.be/eXW4D32ePpE
