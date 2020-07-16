@@ -45,3 +45,10 @@ You can watch the video here: https://youtu.be/9xDqjRd1DpA
 In this video, you will learn about SUMO networks, how to create a SUMO network (by hand and using NETGENERATE), and how to create a simulation in SUMO.
 
 You can watch the video here: https://youtu.be/eXW4D32ePpE
+
+### How to Simulate a V2V Network using OMNET++, INET, and Veins
+
+In this video, we are going to learn how to use INET and VEINs together to simulate a V2V network. This video will review the veins_inet subproject and also show you how to use AODV in your simulation. AODV is a manet routing protocol available in INET.
+
+You can watch the video here: https://youtu.be/6GG1rPvfagU
+
