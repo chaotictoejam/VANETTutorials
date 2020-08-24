@@ -4,8 +4,8 @@ This repository will hold the code used in my VANET YouTube Series (OMNET++, INE
 ## What you need
 
 In order to run this project you need the latest version of:
-* INET (https://github.com/inet-framework/inet)-Latest as of 8/22/2020
-* Veins (https://github.com/sommer/veins)-Latest as of 8/22/2020
+* INET (https://github.com/inet-framework/inet) -Latest as of 8/22/2020
+* Veins (https://github.com/sommer/veins) -Latest as of 8/22/2020
 * SUMO (http://sumo.sourceforge.net/) - Latest (1.6.0)
 
 ## Have a question?
