@@ -4,9 +4,13 @@ This repository will hold the code used in my VANET YouTube Series (OMNET++, INE
 ## What you need
 
 In order to run this project you need the latest version of:
-* INET (https://github.com/inet-framework/inet)
-* Veins (https://github.com/sommer/veins)
-* SUMO (http://sumo.sourceforge.net/)
+* INET (https://github.com/inet-framework/inet) -Latest as of 8/22/2020
+* Veins (https://github.com/sommer/veins) -Latest as of 8/22/2020
+* SUMO (http://sumo.sourceforge.net/) - Latest (1.6.0)
+
+## Have a question?
+
+Have any questions about OMNET++, INET, Veins, or these tutorials. Join the VANET Tutorials discord server: https://discord.gg/zBmwCYa
 
 ## Videos in Series
 
@@ -51,4 +55,10 @@ You can watch the video here: https://youtu.be/eXW4D32ePpE
 In this video, we are going to learn how to use INET and VEINs together to simulate a V2V network. This video will review the veins_inet subproject and also show you how to use AODV in your simulation. AODV is a manet routing protocol available in INET.
 
 You can watch the video here: https://youtu.be/6GG1rPvfagU
+
+### How to Create a Network and Simulation in SUMO Using OpenStreetMap
+
+In this video, we will learn how to take a map from OpenStreetMap and turn in into a SUMO simulation (which we then can use in our VANET simulations).
+
+You can watch the video here: https://youtu.be/wZycufsTEGU
 
