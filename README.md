@@ -62,3 +62,8 @@ In this video, we will learn how to take a map from OpenStreetMap and turn in in
 
 You can watch the video here: https://youtu.be/wZycufsTEGU
 
+### How to Add A Custom Sumo Simulation to OMNET++
+
+In this video, you will learn how to utilize a custom map created in SUMO in your OMNET++ veins_inet simulation. 
+
+You can watch the video here: https://youtu.be/7MLPVfPqFc8
