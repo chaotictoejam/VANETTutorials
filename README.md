@@ -8,10 +8,6 @@ In order to run this project you need the latest version of:
 * Veins (https://github.com/sommer/veins) -Latest on master as of 8/25/2020
 * SUMO (http://sumo.sourceforge.net/) - Latest (v1.6.0)
 
-## Have a question?
-
-Have any questions about OMNET++, INET, Veins, or these tutorials. Join the VANET Tutorials discord server: https://discord.gg/zBmwCYa
-
 ## Videos in Series
 
 ### Introduction to VANETs
