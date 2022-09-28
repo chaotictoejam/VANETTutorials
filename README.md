@@ -1,3 +1,7 @@
+# :exclamation: :exclamation: :exclamation: Notice :exclamation: :exclamation: :exclamation:
+
+I am no longer activly researching VANETs - I am keeping this repo open though so that it can be used as references when needed (although this is most likely out of date)
+
 # VANET Tutorials
 This repository will hold the code used in my VANET YouTube Series (OMNET++, INET, Veins, and SUMO)
 
